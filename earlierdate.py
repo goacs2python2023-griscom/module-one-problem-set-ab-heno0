@@ -6,7 +6,7 @@ def randdate():
     m = randint(1,12)
     d = randint(1,31)
     
-    return datetime(y,m,d)
+    return datetime.datetime(y,m,d)
 
 def comparedates(d1,d2):
     y1 = d1.strftime("%y")
