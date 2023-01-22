@@ -1,10 +1,10 @@
 List of completed problems
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1.earlierdate
+2.fundraiser
+3.raceresults
+4.square
+5.tipcalculator
+6.twodice
+7.roadtrip
+8.busses
